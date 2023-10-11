@@ -44,4 +44,4 @@ sh <(curl https://cyberpanel.net/install.sh || wget -O - https://cyberpanel.net/
 ```
 
 
-**Patience is the key.** Wait For CyberPanel To Finish Installing 
+**Patience is the key.** Wait For CyberPanel To Finish Installing .....
