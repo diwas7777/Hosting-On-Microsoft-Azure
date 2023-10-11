@@ -45,3 +45,14 @@ sh <(curl https://cyberpanel.net/install.sh || wget -O - https://cyberpanel.net/
 
 
 **Patience is the key.** Wait For CyberPanel To Finish Installing .....
+
+## Setting Up CyberPanel
+1. Open your favourite browser and enter
+   ```
+   https://yourVMipaddress:8090
+   ```
+2. Login using your login details
+   ```
+   Default Username: admin
+   Password: Password Set During Installation
+   ```
